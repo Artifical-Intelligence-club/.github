@@ -2,7 +2,7 @@
 #
 
 <p align="center">
-  <img src="Githubgif.gif" alt="AISS Club Banner">
+  <img src="https://i.imgur.com/kpllU91.gif" alt="MasterHead">
 </p>
 
 #
